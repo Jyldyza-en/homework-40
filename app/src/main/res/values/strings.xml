@@ -9,4 +9,7 @@
     <string name="textF3">FRAGMENT_3</string>
     <string name="btn_frag">Button</string>
     <string name="textViewActivity">TextView</string>
+    <string name="item1">Fragment 1</string>
+    <string name="item2">Fragment 2</string>
+    <string name="item3">Fragment 3</string>
 </resources>
