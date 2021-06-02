@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lesson 40</string>
+    <string name="button1">ADD FRAGM_1</string>
+    <string name="button2">ADD FRAGM_2</string>
+    <string name="button3">ADD FRAGM_3</string>
+    <string name="button4">POP BACKSTACK</string>
+    <string name="textF1">FRAGMENT_1</string>
+    <string name="textF2">FRAGMENT_2</string>
+    <string name="textF3">FRAGMENT_3</string>
+    <string name="btn_frag">Button</string>
+    <string name="textViewActivity">TextView</string>
+</resources>
